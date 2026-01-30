@@ -3,4 +3,4 @@
 A place to build, test, break, and learn.
 
 ---
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rodrigolannes&theme=github_dark)
+http://github-profile-summary-cards.vercel.app/api/cards/stats?username=RodrigoLannes&theme=github_dark
